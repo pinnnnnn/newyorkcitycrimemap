@@ -1,4 +1,5 @@
-This app is created along with my research with Professor Kuiper Shonda at Grinnell College in 2017.
-Collaborated with Ibuki Ogasawara
+This app is created along with my research under the supervision of Professor Kuiper Shonda at Grinnell College in 2017.
 
-URL: http://shiny.grinnell.edu/NYPD_Basic/
+This project is done through collaboration with Ibuki Ogasawara
+
+App URL: http://shiny.grinnell.edu/NYPD_Basic/
